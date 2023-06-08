@@ -11,3 +11,5 @@ C. Dictionary and list, both are an ordered collection.
 D. Dictionary and list, both are an unordered collection.
 
 Answer:
+ C. Dictionary and list, both are an ordered collection.
+

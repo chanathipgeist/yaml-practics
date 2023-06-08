@@ -1,2 +1,4 @@
 employee:
-  name: john
+  name: john 
+  gender: male
+  age: 24

@@ -2,3 +2,6 @@ employee:
   name: john
   gender: male
   age: 24
+  city: edison
+  state: new jersey
+  country: united states

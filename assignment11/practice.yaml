@@ -1,4 +1,11 @@
 employees:
-  - name: john
+  - employee1:
+    name: john
     gender: male
     age: 24
+
+  - employee2:
+      name: sarah
+      gender: female
+      age: 28
+
