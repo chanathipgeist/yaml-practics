@@ -10,3 +10,4 @@ choices
 - hyphen
 
 answer:
+- colon
